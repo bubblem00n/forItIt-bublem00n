@@ -1,0 +1,32 @@
+*{
+    background-color: lightyellow;
+}
+
+b{
+    color: brown;
+    font-weight: bold;
+}
+
+h1{
+    color: blue;
+}
+
+h2, h3{
+    color: green;
+}
+
+img{
+    width: 300px;
+    height: auto;
+
+    transition: .8s;
+}
+
+img:hover{
+    transform: rotate(180deg);
+}
+
+a{
+    color: orange;
+    font-weight: bold;
+}
